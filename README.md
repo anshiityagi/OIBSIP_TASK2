@@ -1,5 +1,6 @@
 # OIBSIP_TASK2
 Tribute Page:
+
 This project is a simple yet elegant tribute page dedicated to honoring a person or entity. Built using HTML and CSS this page showcases significant aspects, achievements, and contributions of the subject in a visually appealing format.
 
 Features-
